@@ -13,7 +13,8 @@
     'license': 'OPL-1',
     'depends': ['base'],
     'data': [
-        
+        'security/space_mission_security.xml',
+        'security/ir.model.access.csv',
     ],
     'demo': [
         'demo/spacecraft_demo.xml',
